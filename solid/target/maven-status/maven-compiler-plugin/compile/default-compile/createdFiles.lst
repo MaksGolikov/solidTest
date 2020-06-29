@@ -1,1 +1,10 @@
 Main.class
+service\impl\EgorPeopleServiceImpl.class
+service\BruteForceService.class
+service\CatService.class
+service\CleanService.class
+service\impl\ChebyrekCatServiceImpl.class
+service\impl\KekcAdolfovichCatServiceImpl.class
+service\PeopleService.class
+service\impl\ValdemarPeopleServiceImpl.class
+service\CallService.class
